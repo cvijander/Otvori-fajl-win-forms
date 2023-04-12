@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\bin\Debug\net6.0-windows\Otvori fajl.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\bin\Debug\net6.0-windows\Otvori fajl.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\bin\Debug\net6.0-windows\Otvori fajl.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\bin\Debug\net6.0-windows\Otvori fajl.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\bin\Debug\net6.0-windows\Otvori fajl.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori fajl.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori_fajl.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori fajl.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori fajl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori fajl.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori fajl.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori fajl.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori fajl.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\refint\Otvori fajl.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori fajl.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\Otvori fajl.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Otvori fajl\Otvori fajl\obj\Debug\net6.0-windows\ref\Otvori fajl.dll
